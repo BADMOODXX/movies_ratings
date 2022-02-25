@@ -6,7 +6,8 @@ In my notebook, I explore and clean the data. After it is finally useable, I try
 - Are horror movies, on average, rated higher than comedy movies?
 - What is the highest rated genre of movies?
 
-I hope you enjoy reading my data analysis and maybe even learn something from it ;D\n
+I hope you enjoy reading my data analysis and maybe even learn something from it ;D
+
 *Adam Petržela*
 
 For this analysis, I used:
