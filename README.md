@@ -7,7 +7,7 @@ In my notebook, I explore and clean the data. After it is finally useable, I try
 - What is the highest rated genre of movies?
 
 I hope you enjoy reading my data analysis and maybe even learn something from it ;D
-
+*Adam Petržela*
 
 For this analysis, I used:
 - Jupyter Notebooks
